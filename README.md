@@ -95,7 +95,7 @@ npm run build
 }
 ```
 
-> 命名规则：pre<command> 和 post<command>
+> 命名规则：pre\<command> 和 post\<command>
 
 ## 配置选项
 
