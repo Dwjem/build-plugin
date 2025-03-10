@@ -1,6 +1,6 @@
 {
   "name": "@dwjem/build-plugin",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "author": "Dwjem",
   "description": "打包前后处理",
   "main": "src/index.js",
